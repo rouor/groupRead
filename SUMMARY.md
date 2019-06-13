@@ -23,7 +23,6 @@
 * [5.20 李超](read/5.20-li-chao.md)
 * [5.21 姜重昕](read/5.21-jiang-zhong-xin.md)
 * [5.22 李轶伦](read/5.22-li-yi-lun.md)
-* [5.23 张伟杰](read/5.23-zhang-wei-jie.md)
 * [5.24 齐神囧](read/5.24-qi-shen-jiong.md)
 * [5.25 何惠](read/5.25-he-hui.md)
 * [5.26 源](read/5.26-yuan.md)

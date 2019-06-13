@@ -12,6 +12,7 @@
 * [5.9 张晓峰](read/5.9-zhang-xiao-feng.md)
 * [5.10 郭潇](read/5.10-guo-xiao.md)
 * [5.11 陆梦楠](read/5.11-lu-meng-nan.md)
+* [5.12 陆梦楠（二）](read/5.12-lu-meng-er.md)
 * [5.13 杨维琼](read/5.13-yang-wei-qiong.md)
 * [5.14 李飞](read/5.14-li-fei.md)
 * [5.15 润松](read/5.15-run-song.md)

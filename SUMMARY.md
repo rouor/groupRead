@@ -24,7 +24,7 @@
 * [5.21 姜重昕](read/5.21-jiang-zhong-xin.md)
 * [5.22 李轶伦](read/5.22-li-yi-lun.md)
 * [5.24 齐神囧](read/5.24-qi-shen-jiong.md)
-* [5.25 何惠](read/5.25-he-hui.md)
+* [5.25 何小惠](read/5.25-he-hui.md)
 * [5.26 源](read/5.26-yuan.md)
 * [5.27 李一淼](read/5.27-li-yi-miao.md)
 * [5.28 杨峰](read/5.28-yang-feng.md)

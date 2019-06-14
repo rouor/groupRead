@@ -4,14 +4,14 @@
 
 ## read
 
-* [5.1 陈婷](read/5.1-chen-ting.md)
-* [5.2 高星](read/5.2-gao-xing.md)
-* [5.4 宝明](read/5.4-bao-ming.md)
-* [5.5 梁晨](read/5.5-liang-chen.md)
-* [5.9 张晓峰](read/5.9-zhang-xiao-feng.md)
-* [5.10 郭潇](read/5.10-guo-xiao.md)
-* [5.11 陆梦楠](read/5.11-lu-meng-nan.md)
-* [5.12 陆梦楠（二）](read/5.12-lu-meng-er.md)
+* [5.1 陈婷\_黑泽明的经典名作《七武士》](read/5.1-chen-ting.md)
+* [5.2 高星\_博多舍费尔《小狗钱钱》](read/5.2-gao-xing.md)
+* [5.4 宝明\_关于女性讨论](read/5.4-bao-ming.md)
+* [5.5 梁晨\_《工作何须卖命》](read/5.5-liang-chen.md)
+* [5.9 张晓峰\_《我们为什么会生病》](read/5.9-zhang-xiao-feng.md)
+* [5.10 郭潇\_中国传统文化认知](read/5.10-guo-xiao.md)
+* [5.11 陆梦楠\_纪录片《人生果实》](read/5.11-lu-meng-nan.md)
+* [5.12 陆梦楠（二）\_母亲](read/5.12-lu-meng-er.md)
 * [5.13 杨维琼](read/5.13-yang-wei-qiong.md)
 * [5.14 李飞](read/5.14-li-fei.md)
 * [5.15 润松](read/5.15-run-song.md)
